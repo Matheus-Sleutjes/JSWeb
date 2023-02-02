@@ -1,0 +1,15 @@
+.container-initial{
+    background-color: #e2dfdf;
+    width: 100%;
+    width: 100vw;
+    height: 100%;
+    height: 100vh;
+    margin: 0px;
+    position:absolute;
+    overflow-x: hidden; 
+    overflow-y: hidden; 
+    padding: 10px 20px;
+}
+.container-initial.div{
+    padding: none !important
+}
